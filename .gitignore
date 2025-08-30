@@ -1,0 +1,86 @@
+# Configuration files with sensitive data
+config.php
+
+# IDE and editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+Thumbs.db
+workspace.code-workspace
+*.code-workspace
+
+# Temporary files
+*.tmp
+*.temp
+*.log
+*.cache
+
+# Backup files
+*.bak
+*.backup
+*.old
+
+# Archives
+*.zip
+*.rar
+*.tar
+*.gz
+*.7z
+
+# PHP specific
+vendor/
+composer.lock
+*.phar
+
+# Upload directories (if they contain user data)
+uploads/
+temp/
+
+# Database dumps (except the initial schema)
+*.sql
+!cufeast.sql
+
+# Environment files
+.env
+.env.local
+.env.*.local
+
+# System files
+desktop.ini
+.directory
+
+# Session files
+sess_*
+
+# Error logs
+error_log
+php_error.log
+apache_error.log
+
+# Local development
+*.local.php
+config.local.php
+
+# Node modules (if you add any JavaScript build tools)
+node_modules/
+npm-debug.log
+yarn-error.log
+
+# Build outputs
+dist/
+build/
+
+# Documentation build
+docs/_build/
+
+# Testing
+phpunit.xml
+.phpunit.result.cache
+coverage/
+
+# Composer
+/vendor/
+composer.phar
