@@ -120,7 +120,7 @@ For issues and questions, please open an issue in the GitHub repository.
 
 ## Authors
 
-- Your Name - Initial work
+- Pratik Kaushal - Initial work
 
 ## Acknowledgments
 
